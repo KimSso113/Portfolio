@@ -102,7 +102,7 @@ $(function(){
             start: '100% 50%',
             end: '100% 0%',
             scrub: 1,
-            markers: true
+            // markers: true
         }
     })
     .to ('.con02 .title .a', {x: '-100%'},0)
